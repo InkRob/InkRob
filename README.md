@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @InkRob
-- 👀 I’m interested in blockchain technologies and application
+- 👀 I’m interested in blockchain technologies and applications
 - 🌱 I’m currently learning RustLang
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
